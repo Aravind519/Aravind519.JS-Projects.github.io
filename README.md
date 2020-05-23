@@ -22,7 +22,7 @@ The image you clicked on will appear on the left and the computer choice will ap
 displayed in the middle of the two choices(Yours and computer) with sound effects.
 
 4. CHANGE THE COLOR OF ALL THE BUTTONS:
- All the buttons will change their colors to the color you selected(Red,Green,Yellow,Blue). RESET will bring back the buttons to their 
+ All the buttons will change their colors to the color you have selected(Red,Green,Yellow,Blue). RESET will bring back the buttons to their 
 original colors, whereas RANDOM is used to generate random colors.
 
 5. BLACKJACK GAME:
