@@ -14,9 +14,9 @@ whereas DELETE ALL CATS button is used to delete all the cats at once. Every you
  Click on any of the three images to start the game and click on PLAY button to resart the game.
 
 Rules:
- Rock beats scissors
-Scissors beat paper
-Paper beats rock.
+ Rock beats scissors,
+ Scissors beat paper,
+ Paper beats rock.
 
 The image you clicked on will appear on the left and the computer choice will appear on the right. A win,lost or tied message will be 
 displayed in the middle of the two choices(Yours and computer) with sound effects.
