@@ -35,7 +35,7 @@ You start the game first by clicking HIT button. Keep on clicking HIT button unt
 satisfied score, give the chance to the computer by clicking STAND button. DEAL button is to restart the game. Win,lost and tied 
 messages are disaplyed on the screen with sound effects and also there is a table to count your number of wins,losses and draws.
 
-!! Enjoy yourself by playing this game !!
+!! Enjoy yourself by playing these games !!
 
 Thank you and have an awesome day.
 
