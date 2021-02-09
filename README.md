@@ -13,17 +13,17 @@ whereas DELETE ALL CATS button is used to delete all the cats at once. Every you
 3. ROCK, PAPER, SCISSORS:
  Click on any of the three images to start the game and click on PLAY button to resart the game.
 
-Rules:
- Rock beats scissors,
- Scissors beat paper,
- Paper beats rock.
+ Rules:
+  Rock beats scissors,
+  Scissors beat paper,
+  Paper beats rock.
 
-The image you clicked on will appear on the left and the computer choice will appear on the right. A win,lost or tied message will be 
-displayed in the middle of the two choices(Yours and computer) with sound effects.
+ The image you clicked on will appear on the left and the computer choice will appear on the right. A win,lost or tied message will be 
+ displayed in the middle of the two choices(Yours and computer) with sound effects.
 
 4. CHANGE THE COLOR OF ALL THE BUTTONS:
  All the buttons will change their colors to the color you have selected(Red,Green,Yellow,Blue). RESET will bring back the buttons to their 
-original colors, whereas RANDOM is used to generate random colors.
+ original colors, whereas RANDOM is used to generate random colors.
 
 5. BLACKJACK GAME:
  Welcome to BlackJack game!
@@ -31,12 +31,12 @@ original colors, whereas RANDOM is used to generate random colors.
 Rules:
  Score should not go above 21, otherwise BUST!
 
-You start the game first by clicking HIT button. Keep on clicking HIT button until you are satisfied with your score. After achieving
-satisfied score, give the chance to the computer by clicking STAND button. DEAL button is to restart the game. Win,lost and tied 
-messages are disaplyed on the screen with sound effects and also there is a table to count your number of wins,losses and draws.
+ You start the game first by clicking HIT button. Keep on clicking HIT button until you are satisfied with your score. After achieving
+ satisfied score, give the chance to the computer by clicking STAND button. DEAL button is to restart the game. Win,lost and tied 
+ messages are disaplyed on the screen with sound effects and also there is a table to count your number of wins,losses and draws.
 
-!! Enjoy yourself by playing these games !!
+ !! Enjoy yourself by playing these games !!
 
-Thank you and have an awesome day.
+ Thank you and have an awesome day.
 
 
