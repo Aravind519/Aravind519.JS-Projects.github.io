@@ -1,6 +1,4 @@
-# JS-Projects
-
-These are five(5) progressively advanced projects built with HTML, CSS(Bootstrap) and JAVASCRIPT.
+# These are five(5) progressively advanced projects developed using HTML, CSS(Bootstrap) and JAVASCRIPT.
 
 1. CALCULATE THE AGE IN YEARS AND MONTHS:
  If you enter the year and month of birth by clicking on CLICK ME button, this project will calculate how old a person is in years and 
