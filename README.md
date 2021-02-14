@@ -8,7 +8,7 @@ months. RESET button is used to clear the age one by one. Whereas RESET ALL is u
  Keep on clicking GENERATE CAT button to generate 'N' number of cats. DELETE CAT button is used to delete cats one by one, 
 whereas DELETE ALL CATS button is used to delete all the cats at once. Every you start fresh, a random cat is generated.
 
-# 3. ROCK, PAPER, SCISSORS:
+# 3. ROCK, PAPER, SCISSORS GAME:
  Click on any of the three images to start the game and click on PLAY button to resart the game.
 
  Rules:
